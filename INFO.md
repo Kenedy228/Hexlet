@@ -1,1 +1,1 @@
-is awesome!
+Hello, World!
